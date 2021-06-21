@@ -1,0 +1,17 @@
+---
+title: "OK"
+author: "Nima"
+date: "6/20/2021"
+output: html_documente
+---
+<!-- #For data manipulation and tidying -->
+library(dplyr) library(lubridate) library(tidyr) library(tidyverse)
+
+#For data visualizations
+library(ggplot2)
+qweqweqewqweqweq
+<!-- For modeling and machine learning -->
+library(caret)
+
+<!-- Import the data -->
+Ok <- read.csv(file.choose())
